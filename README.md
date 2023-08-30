@@ -7,7 +7,6 @@ Roteiro para compilação:
 Gerar o pan.c do enquadramento e arq:
 ```
 ./spin -a enq.pml
-./spin -a arq.pml
 ```
 Depois é só gerar o pan.c do pml desejado, compilá-lo e executar:
 ```
